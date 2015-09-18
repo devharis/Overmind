@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overmind.Api", "Overmind.Api\Overmind.Api.csproj", "{54867BEE-5E29-4705-8A4F-E321A01C4D7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overmind.Domain", "Overmind.Domain\Overmind.Domain.csproj", "{A8EFC4A4-0B09-4F80-B4AD-032F3698046C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overmind.DAL", "Overmind.DAL\Overmind.DAL.csproj", "{DC971259-A69C-4EB5-80A4-82B410A2D0BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overmind.Web", "Overmind.Web\Overmind.Web.csproj", "{7E3B28B7-3E23-4EF0-8D4A-9CA96F86CC2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54867BEE-5E29-4705-8A4F-E321A01C4D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54867BEE-5E29-4705-8A4F-E321A01C4D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54867BEE-5E29-4705-8A4F-E321A01C4D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54867BEE-5E29-4705-8A4F-E321A01C4D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8EFC4A4-0B09-4F80-B4AD-032F3698046C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8EFC4A4-0B09-4F80-B4AD-032F3698046C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8EFC4A4-0B09-4F80-B4AD-032F3698046C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8EFC4A4-0B09-4F80-B4AD-032F3698046C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC971259-A69C-4EB5-80A4-82B410A2D0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC971259-A69C-4EB5-80A4-82B410A2D0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC971259-A69C-4EB5-80A4-82B410A2D0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC971259-A69C-4EB5-80A4-82B410A2D0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E3B28B7-3E23-4EF0-8D4A-9CA96F86CC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3B28B7-3E23-4EF0-8D4A-9CA96F86CC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3B28B7-3E23-4EF0-8D4A-9CA96F86CC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3B28B7-3E23-4EF0-8D4A-9CA96F86CC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
