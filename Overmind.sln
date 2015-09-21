@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overmind.Domain", "Overmind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overmind.DAL", "Overmind.DAL\Overmind.DAL.csproj", "{DC971259-A69C-4EB5-80A4-82B410A2D0BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overmind.Web", "Overmind.Web\Overmind.Web.csproj", "{7E3B28B7-3E23-4EF0-8D4A-9CA96F86CC2E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overmind.Web", "Overmind.Web\Overmind.Web.csproj", "{4D15BCB8-C6ED-410C-8CDA-96C31B571C95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{DC971259-A69C-4EB5-80A4-82B410A2D0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC971259-A69C-4EB5-80A4-82B410A2D0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC971259-A69C-4EB5-80A4-82B410A2D0BD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7E3B28B7-3E23-4EF0-8D4A-9CA96F86CC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E3B28B7-3E23-4EF0-8D4A-9CA96F86CC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E3B28B7-3E23-4EF0-8D4A-9CA96F86CC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E3B28B7-3E23-4EF0-8D4A-9CA96F86CC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D15BCB8-C6ED-410C-8CDA-96C31B571C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D15BCB8-C6ED-410C-8CDA-96C31B571C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D15BCB8-C6ED-410C-8CDA-96C31B571C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D15BCB8-C6ED-410C-8CDA-96C31B571C95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
